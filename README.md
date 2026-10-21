@@ -1,4 +1,7 @@
 <h1 align="center">MUHAMMAD IMRAN👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Laravel+%7C+C%23+%7C+Java;Data+Analysis+%26+Machine+Learning" alt="Typing SVG" />
+</p>
 <h3 align="center">Full Stack Developer | BS COMPUTER SCIENCE| FUUAST | ISLAMABAD, Pakistan 🇵🇰</h3>
 
 <p align="center">
