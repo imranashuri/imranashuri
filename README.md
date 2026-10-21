@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Laravel+%7C+C%23+%7C+Java;Data+Analysis+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
-<h3 align="center"> BS COMPUTER SCIENCE || FUUAST|  ISLAMABAD |Rawalpindi, Pakistan 🇵🇰</h3>
+<h3 align="center"> BS COMPUTER SCIENCE || FUUAST||  ISLAMABAD Rawalpindi, Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imranashuri&theme=flat&no-frame=true&row=1&column=7" />
