@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Your%20Name&fontSize=45" />
+</p>
 <h1 align="center">MUHAMMAD IMRAN👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+Laravel+%7C+C%23+%7C+Java;Data+Analysis+%26+Machine+Learning" alt="Typing SVG" />
@@ -81,3 +84,11 @@
 </p>
 
 <p align="center">⭐ If you like any of my projects, please give them a star!</p>
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=minimal" alt="Activity Graph" />
+</p>
