@@ -7,24 +7,7 @@
 </p>
 
 <h3 align="center">Rawalpindi, Pakistan 🇵🇰</h3>
-<details>
-<summary><b>📚 Certifications & Education</b></summary>
-<br>
 
-- Bachelor's in BSCS, FUUAST
-- [MICROSOFT], [COURSERA], [2025]  
- [MS EXCEL], [COURSERA], [2025]
- [SIMPLILEARN], [COURSERA], [2025]
- [HTMI,CSS IN DEPTH], [COURSERA], [2025]
-## 🎓 Certifications
-
-| Certificate | Issued By | Year | Link |
-|-------------|-----------|------|------|
-| MICROSOFT | Coursera | 2025 | Coursera L2AO75J2735Z.pdf Microsoft certificate |
-| MS EXCEL | Udemy | 2025 | [View](https://link-to-certificate) |
-| SIMPLILEARN| HackerRank | 2025 | [View](https://link-to-certificate) |
-|HTMI,CSS IN DEPTH | HackerRank | 2025 | [View](https://link-to-certificate) |
-</details>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imranashuri&theme=flat&no-frame=true&row=1&column=7" />
 </p>
@@ -68,7 +51,27 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<details>
+<summary><b>📚 Certifications & Education</b></summary>
+<br>
 
+- Bachelor's in BSCS, FUUAST
+- [MICROSOFT], [COURSERA], [2025]
+-   
+- [MS EXCEL], [COURSERA], [2025]
+
+- [SIMPLILEARN], [COURSERA], [2025]
+ 
+- [HTMI,CSS IN DEPTH], [COURSERA], [2025]
+## 🎓 Certifications
+
+| Certificate | Issued By | Year | Link |
+|-------------|-----------|------|------|
+| MICROSOFT | Coursera | 2025 |https://www.coursera.org/account/accomplishments/verify/L2AO75J2735Z |
+|work smart with MS EXCEL | Coursera | 2025 | https://www.coursera.org/account/accomplishments/verify/NTPFP3ECEWM4 |
+| SIMPLILEARN programming with c++| Coursera | 2025 | https://www.coursera.org/account/accomplishments/verify/TLFSTRR9280Z |
+|HTMI,CSS IN DEPTH | Coursera | 2025 | https://www.coursera.org/account/accomplishments/verify/VT4OE4OABSYN |
+</details>
 
 
 
