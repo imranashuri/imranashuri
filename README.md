@@ -7,7 +7,19 @@
 </p>
 
 <h3 align="center">Rawalpindi, Pakistan 🇵🇰</h3>
+<details>
+<summary><b>📚 Certifications & Education</b></summary>
+<br>
 
+- Bachelor's in BSCS, FUUAST
+- [MICROSOFT], [COURSERA], [2025]
+ [MS EXCEL], [COURSERA], [2025]
+ [SIMPLILEARN], [COURSERA], [2025]
+ [HTMI,CSS IN DEPTH], [COURSERA], [2025]
+</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranashuri&theme=flat&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
