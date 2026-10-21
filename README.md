@@ -47,13 +47,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project 1](https://github.com/imranashuri/Imran-Portfolio.git) | One line describing what it does | HTML,CSS |
-| [Project 2](https://github.com/imranashuri/Student-Management-System.git) | One line describing what it does | Python, MongoDB |
-| [Project 3](https://github.com/imranashuri/simple-website-page-html-css.git) | One line describing what it does | HTML, CSS |
-| [Project 4](https://github.com/imranashuri/digital-sphere-khansoft.git) | One line describing what it does |  HTML, CSS, SQL |
-| [Project 5](https://github.com/imranashuri/App-Fusion-.git) | One line describing what it does |  HTML, CSS, SQL |
-| [Project 6](https://github.com/imranashuri/CHATBOT.git) | One line describing what it does | PYTHON |
-| [Project 7](https://github.com/imranashuri/AI-BASE-RESUME-BUILD.git) | One line describing what it does | HTML,CSS,JAVASRIPT |
+| [Project 1](https://github.com/imranashuri/Imran-Portfolio.git) | PORTFOLIA | HTML,CSS |
+| [Project 2](https://github.com/imranashuri/Student-Management-System.git) | student mangement system| Python, MongoDB |
+| [Project 3](https://github.com/imranashuri/simple-website-page-html-css.git) | simple website page university| HTML, CSS |
+| [Project 4](https://github.com/imranashuri/digital-sphere-khansoft.git) | smart task manager web app |  HTML, CSS, SQL |
+| [Project 5](https://github.com/imranashuri/App-Fusion-.git) | E-commerce website |  HTML, CSS, SQL |
+| [Project 6](https://github.com/imranashuri/CHATBOT.git) | chatbot | PYTHON |
+| [Project 7](https://github.com/imranashuri/AI-BASE-RESUME-BUILD.git) | AI-base resume build | HTML,CSS,JAVASRIPT |
 
 ---
 
