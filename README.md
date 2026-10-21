@@ -1,4 +1,4 @@
-<h1 align="center">MOHD IMRAN👋</h1>
+<h1 align="center">MUHAMMAD IMRAN👋</h1>
 <h3 align="center">Full Stack Developer | BS COMPUTER SCIENCE| FUUAST | ISLAMABAD, Pakistan 🇵🇰</h3>
 
 <p align="center">
