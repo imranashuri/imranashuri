@@ -1,5 +1,5 @@
 <h1 align="center">MUHAMMAD IMRAN👋<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Your%20Name&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Your%20MUHAMMAD IMRAN&fontSize=45" />
 </p>
 </h1>
 <p align="center">
