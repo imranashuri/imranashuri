@@ -11,7 +11,7 @@
 - 💻 Full Stack Developer with experience in backend, databases, and web applications
 - 🔧 Comfortable with multiple languages: Python, C#, C++, Java, and PHP
 - 🗄️ Experienced with both SQL and NoSQL (MongoDB) databases
-- 🌱 Currently learning **[e.g. React, Docker, AI/ML]**
+- 🌱 Currently learning **[e.g. React, DS,DA, AI/ML]**
 - 🤝 Open to collaborating on **[e.g. web projects, open source]**
 
 ---
