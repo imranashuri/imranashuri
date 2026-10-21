@@ -47,9 +47,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project 1](https://github.com/USERNAME/project1) | One line describing what it does | Laravel, MySQL |
-| [Project 2](https://github.com/USERNAME/project2) | One line describing what it does | Python, MongoDB |
-| [Project 3](https://github.com/USERNAME/project3) | One line describing what it does | C#, SQL |
+| [Project 1](https://github.com/imranashuri/Imran-Portfolio.git) | One line describing what it does | HTML,CSS |
+| [Project 2](https://github.com/imranashuri/Student-Management-System.git) | One line describing what it does | Python, MongoDB |
+| [Project 3](https://github.com/imranashuri/simple-website-page-html-css.git) | One line describing what it does | HTML, CSS |
+| [Project 4](https://github.com/imranashuri/digital-sphere-khansoft.git) | One line describing what it does |  HTML, CSS, SQL |
+| [Project 5](https://github.com/imranashuri/App-Fusion-.git) | One line describing what it does |  HTML, CSS, SQL |
+| [Project 6](https://github.com/imranashuri/CHATBOT.git) | One line describing what it does | PYTHON |
+| [Project 7](https://github.com/imranashuri/AI-BASE-RESUME-BUILD.git) | One line describing what it does | HTML,CSS,JAVASRIPT |
 
 ---
 
