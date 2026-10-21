@@ -12,10 +12,18 @@
 <br>
 
 - Bachelor's in BSCS, FUUAST
-- [MICROSOFT], [COURSERA], [2025]
+- [MICROSOFT], [COURSERA], [2025]  
  [MS EXCEL], [COURSERA], [2025]
  [SIMPLILEARN], [COURSERA], [2025]
  [HTMI,CSS IN DEPTH], [COURSERA], [2025]
+## 🎓 Certifications
+
+| Certificate | Issued By | Year | Link |
+|-------------|-----------|------|------|
+| MICROSOFT | Coursera | 2025 | Coursera L2AO75J2735Z.pdf Microsoft certificate |
+| MS EXCEL | Udemy | 2025 | [View](https://link-to-certificate) |
+| SIMPLILEARN| HackerRank | 2025 | [View](https://link-to-certificate) |
+|HTMI,CSS IN DEPTH | HackerRank | 2025 | [View](https://link-to-certificate) |
 </details>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imranashuri&theme=flat&no-frame=true&row=1&column=7" />
