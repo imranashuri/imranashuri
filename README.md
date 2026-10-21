@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?imranashuri=USERNAME&show_icons=true&theme=default" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?imranashuri=USERNAME&layout=compact" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?imranashuri=imranashuri&show_icons=true&theme=default" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?imranashuri=imranashuri&layout=compact" height="160" alt="Top languages" />
 </p>
 
 ---
