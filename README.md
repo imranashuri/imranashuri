@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?imranashuri=imranashuri&show_icons=true&theme=default" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?imranashuri=imranashuri&layout=compact" height="160" alt="Top languages" />
+  <img src="https://https://github.com/imranashuri-readme-stats.vercel.app/api?imranashuri=imranashuri&show_icons=true&theme=default" height="160" alt="GitHub stats" />
+  <img src="https://https://github.com/imranashuri-readme-stats.vercel.app/api/top-langs/?imranashuri=imranashuri&layout=compact" height="160" alt="Top languages" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohdimrandeveloper"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/imran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohdimrandevelope786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
